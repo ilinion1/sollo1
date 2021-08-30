@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Соло</string>
+    <string name="singIn">Войти</string>
+    <string name="singUP">Зарегистрироваться</string>
+    <string name="login">Логин</string>
+    <string name="Password">Пароль</string>
+    <string name="Name">Имя</string>
+    <string name="Surname">Фамилия</string>
+    <string name="Patronymic">Отчество</string>
+    <string name="Done">Сделано</string>
+    <string name="Avatar">Аватар</string>
+</resources>

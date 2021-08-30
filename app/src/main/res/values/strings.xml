@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">sollo</string>
+    <string name="singIn">SING_IN</string>
+    <string name="singUP">SING_UP</string>
+    <string name="login">Login</string>
+    <string name="Password">Password</string>
+    <string name="Name">Name</string>
+    <string name="Surname">Surname</string>
+    <string name="Patronymic">Patronymic</string>
+    <string name="Done">Done</string>
+    <string name="Avatar">Avatar</string>
+</resources>
